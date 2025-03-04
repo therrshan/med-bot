@@ -37,5 +37,8 @@ python app.py
 - Python
 - LangChain
 - Flask
-- GPT
+- Mstral AI
 - Pinecone
+
+<img src="static/screenshots.png" alt="Description" width="400">
+
