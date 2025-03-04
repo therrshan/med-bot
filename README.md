@@ -37,8 +37,8 @@ python app.py
 - Python
 - LangChain
 - Flask
-- Mstral AI
+- Mistral AI
 - Pinecone
 
-<img src="static/screenshots.png" alt="Description" width="400">
+<img src="static/screenshots.png" alt="Description" width="800">
 
