@@ -1,11 +1,4 @@
 # How to run?
-### STEPS:
-
-Clone the repository
-
-```bash
-Project repo: https://github.com/
-```
 
 ### STEP 01 - Install the requirements
 ```bash
@@ -22,7 +15,7 @@ HUGGINGFACEHUB_API_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 ```bash
-# run the following command to store embeddings to pinecone
+# run the following command to store embeddings to pinecone (Needs medical data in the Data directory)
 python store_index.py
 ```
 
