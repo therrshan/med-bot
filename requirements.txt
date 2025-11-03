@@ -1,5 +1,7 @@
 sentence-transformers
 langchain
+langchain-core
+langchain-classic
 flask
 pypdf
 python-dotenv
@@ -8,5 +10,6 @@ langchain-pinecone
 langchain_community
 langchain_huggingface
 langchain_experimental
+langchain_text_splitters
 textblob
 -e .

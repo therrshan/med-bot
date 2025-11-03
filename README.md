@@ -40,5 +40,5 @@ python app.py
 - Mistral AI
 - Pinecone
 
-<img src="static/screenshots.png" alt="Description" width="800">
+<img src="static/bot.png" alt="Description" width="800">
 

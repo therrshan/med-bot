@@ -1,2 +1,6 @@
 Data
 .env
+*.egg-info
+.venv
+__pycache__
+.idea
